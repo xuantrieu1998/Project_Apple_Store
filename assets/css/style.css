@@ -1,9 +1,0 @@
-.page__wrapper {
-  display: flex;
-  min-height: 100vh;
-  flex-flow: column;
-}
-.main__wrapper {
-  flex: 1;
-  overflow: hidden;
-}
